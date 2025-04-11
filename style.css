@@ -187,6 +187,7 @@ nav {
 
 .carousel-inner {
     padding: 20px;
+    
 }
 
 .images:hover {
@@ -319,6 +320,10 @@ nav {
     border-radius: 20px !important;
 }
 
+
+.accordion-header{
+    border-radius: 20px !important;
+}
 .flush-acc{
     margin-bottom: 30px;
 }
